@@ -2,123 +2,123 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:14 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:14 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:15 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:15 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:16 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:16 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:17 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:17 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:18 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:18 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:19 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:19 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:20 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:20 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:21 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:21 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:22 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:22 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:23 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:23 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:24 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:24 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:25 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:25 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:26 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:26 - my logg for -----------------------------------------
 ]]>
     </line>
     <line>
-      <![CDATA[2017-08-05 15:18:53 INFO  AppTest:27 - my logg for -----------------------------------------
+      <![CDATA[2017-08-05 16:16:01 INFO  AppTest:27 - my logg for -----------------------------------------
 ]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="96" started-at="2017-08-05T12:18:53Z" finished-at="2017-08-05T12:18:53Z">
+  <suite name="Default suite" duration-ms="95" started-at="2017-08-05T13:16:00Z" finished-at="2017-08-05T13:16:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="96" started-at="2017-08-05T12:18:53Z" finished-at="2017-08-05T12:18:53Z">
+    <test name="Default test" duration-ms="95" started-at="2017-08-05T13:16:00Z" finished-at="2017-08-05T13:16:01Z">
       <class name="com.epam.lab.jenk.hello.AppTest">
-        <test-method status="PASS" signature="test()[pri:0, instance:com.epam.lab.jenk.hello.AppTest@3ffc5af1]" name="test" duration-ms="76" started-at="2017-08-05T15:18:53Z" finished-at="2017-08-05T15:18:53Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.epam.lab.jenk.hello.AppTest@3ffc5af1]" name="test" duration-ms="76" started-at="2017-08-05T16:16:00Z" finished-at="2017-08-05T16:16:01Z">
           <reporter-output>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:14 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:14 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:15 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:15 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:16 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:16 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:17 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:17 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:18 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:18 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:19 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:19 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:20 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:20 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:21 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:21 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:22 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:22 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:23 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:23 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:24 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:24 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:25 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:25 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:26 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:26 - my logg for -----------------------------------------
 ]]>
             </line>
             <line>
-              <![CDATA[2017-08-05 15:18:53 INFO  AppTest:27 - my logg for -----------------------------------------
+              <![CDATA[2017-08-05 16:16:01 INFO  AppTest:27 - my logg for -----------------------------------------
 ]]>
             </line>
           </reporter-output>
